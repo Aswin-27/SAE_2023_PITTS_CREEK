@@ -4,40 +4,20 @@
 An AI-powered drone system designed for precise and efficient payload delivery within the target given below:
 ![image](https://github.com/user-attachments/assets/ae0feee9-1cbd-4b42-93b9-b2f341245cec)
 
-The below figure describes the standard mission profile that will be carried out in
-both missions 
+The below figure describes the standard mission profile that will be carried out in mission
 ![image](https://github.com/user-attachments/assets/bcc9f1db-636d-42b1-9d45-d9f5bf8625bf)
+In Short, the UAS should takeoff, detect the 4 hotspots, and drop the payload in the payload
+drop zone and should return to the take-off point and land.
 
-### Overview
-This project focuses on developing an autonomous drone capable of delivering payloads accurately and reliably within the 
-### Technology Stack
-* Python
-* TensorFlow/Keras
-* OpenCV
-* [Other relevant libraries]
+Mission is to detect all these hotspots and targets then drop payload.
+Cursing altitude is 30 meter , Payload-Dropping altitude is 20 meter and Hotspots Identification altitude is 10 meters  
 
 ### Achievements
 * Achieved 95% payload delivery accuracy.
-* Secured 13th place in SAE Aerothon 2023 India-wide competition.
+* Secured ###13th place in SAE Aerothon 2023 India-wide competition.
 
 ### Features
 * Real-time object detection and avoidance
 * Precise payload drop mechanism
-* Efficient flight path planning
-* [Other key features]
-
-### Project Structure
-* src: Source code files
-* data: Dataset and preprocessed data
-* models: Trained models
-* config: Configuration files
-
-### Getting Started
-1. Clone the repository
-2. Install required dependencies
-3. Set up environment variables (if necessary)
-4. Run the main script
-
-### Contributions
-We welcome contributions to improve the project. Please feel free to open issues or submit pull requests.
+* Efficient flight path planning.
 
