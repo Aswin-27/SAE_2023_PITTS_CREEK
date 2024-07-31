@@ -2,6 +2,7 @@
 ## Autonomous Drone Payload Delivery System
 
 An AI-powered drone system designed for precise and efficient payload delivery within the target given below:
+
 ![image](https://github.com/user-attachments/assets/ae0feee9-1cbd-4b42-93b9-b2f341245cec)
 
 The below figure describes the standard mission profile that will be carried out in mission
