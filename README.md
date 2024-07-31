@@ -6,6 +6,7 @@ An AI-powered drone system designed for precise and efficient payload delivery w
 
 The below figure describes the standard mission profile that will be carried out in mission
 ![image](https://github.com/user-attachments/assets/bcc9f1db-636d-42b1-9d45-d9f5bf8625bf)
+
 In Short, the UAS should takeoff, detect the 4 hotspots, and drop the payload in the payload
 drop zone and should return to the take-off point and land.
 Mission is to detect all these hotspots and targets then drop payload.
