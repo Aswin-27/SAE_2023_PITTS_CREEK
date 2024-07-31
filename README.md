@@ -2,10 +2,10 @@
 ## Autonomous Drone Payload Delivery System
 
 An AI-powered drone system designed for precise and efficient payload delivery.
+![image](https://github.com/user-attachments/assets/ae0feee9-1cbd-4b42-93b9-b2f341245cec)
 
 ### Overview
-This project focuses on developing an autonomous drone capable of delivering payloads accurately and reliably. Leveraging advanced AI and ML techniques, the system ensures safe navigation and obstacle avoidance while maintaining high delivery precision.
-
+This project focuses on developing an autonomous drone capable of delivering payloads accurately and reliably within the 
 ### Technology Stack
 * Python
 * TensorFlow/Keras
