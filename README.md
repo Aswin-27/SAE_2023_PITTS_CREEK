@@ -14,11 +14,15 @@ Mission is to detect all these hotspots and targets then drop payload.
 Cursing altitude is 30 meter , Payload-Dropping altitude is 20 meter and Hotspots Identification altitude is 10 meters  
 
 ### Achievements
-* Achieved 95% payload delivery accuracy.
+* Achieved 92% payload delivery accuracy.
 * Secured 13th place in SAE Aerothon 2023 India-wide competition.
 
 ### Features
 * Real-time object detection and avoidance
 * Precise payload drop mechanism
 * Efficient flight path planning.
+
+THE FINAL RESULT:
+![Screenshot 2024-07-31 195423](https://github.com/user-attachments/assets/a841c5d3-8fc8-4a0d-aea0-396f72f0ada3)
+
 
