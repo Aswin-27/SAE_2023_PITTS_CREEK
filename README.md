@@ -1,8 +1,12 @@
 # SAE_2023_PITTS_CREEK
 ## Autonomous Drone Payload Delivery System
 
-An AI-powered drone system designed for precise and efficient payload delivery.
+An AI-powered drone system designed for precise and efficient payload delivery within the target given below:
 ![image](https://github.com/user-attachments/assets/ae0feee9-1cbd-4b42-93b9-b2f341245cec)
+
+The below figure describes the standard mission profile that will be carried out in
+both missions 
+![image](https://github.com/user-attachments/assets/bcc9f1db-636d-42b1-9d45-d9f5bf8625bf)
 
 ### Overview
 This project focuses on developing an autonomous drone capable of delivering payloads accurately and reliably within the 
