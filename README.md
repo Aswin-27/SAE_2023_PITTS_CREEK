@@ -15,8 +15,8 @@ Cursing altitude is 30 meter , Payload-Dropping altitude is 20 meter and Hotspot
 
 ### Achievements
 * Achieved 92% payload delivery accuracy.
-* Secured 13th place in SAE Aerothon 2023 India-wide competition.
-
+[* Secured 13th place in SAE Aerothon 2023 India-wide competition.
+](https://www.linkedin.com/feed/update/urn:li:activity:7081857500559392768?utm_source=share&utm_medium=member_desktop)
 ### Features
 * Real-time object detection and avoidance
 * Precise payload drop mechanism
